@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kaan-k
 - 👀 I’m interested in Unity game development
-- 🌱 I’m currently learning How to make 3D games
+- 🌱 I’m currently learning how to make 3D games
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me here.
+- 📫 You can reach me here.
 
 <!---
 kaan-k/kaan-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
